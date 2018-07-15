@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumJavaVuforia.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumJavaVuforia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumJavaVuforia_main.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumJavaVuforia_main.iml" group="seleniumJavaVuforia" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumJavaVuforia_test.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumJavaVuforia_test.iml" group="seleniumJavaVuforia" />
+    </modules>
+  </component>
+</project>
