@@ -1,3 +1,4 @@
+// Selenium - chrome driver ( with POM example )
 import com.oracle.tools.packager.Log;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
